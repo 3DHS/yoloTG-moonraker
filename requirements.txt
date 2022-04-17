@@ -1,0 +1,3 @@
+opencv-python==4.5.5.64
+pyTelegramBotAPI==4.4.0
+requests==2.27.1
